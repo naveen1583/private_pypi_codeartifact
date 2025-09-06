@@ -1,0 +1,12 @@
+# .gitignore for private_pypi
+*.pyc
+__pycache__/
+.env
+*.log
+*.swp
+.DS_Store
+# SSL and token files (add your actual filenames if needed)
+*.pem
+*.crt
+*.key
+token.txt

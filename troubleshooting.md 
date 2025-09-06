@@ -1,0 +1,9 @@
+# Troubleshooting
+
+- **401 Unauthorized**: Check token script, IAM permissions, or base64 encoding.
+- **502 Bad Gateway**: Verify VPC endpoints and security groups; test curl to upstream.
+- **SSL Handshake Errors**: Ensure `proxy_ssl_server_name on;` in config.
+- **Sed Errors in Script**: Use the provided delimiter-safe sed command.
+- Logs: Check `/var/log/nginx/error.log` and `/var/log/nginx/access.log`.
+
+For more, see the original discussion thread.
