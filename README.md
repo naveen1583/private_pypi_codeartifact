@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/naveen1583/private_pypi_codeartifact/images/CodeArtifact.png" alt="AWS CodeArtifact Logo" width="150"/>
+</p>
+
 # private-pypi-proxy (AWS CodeArtifact)
 
 A simple, secure Nginx-based proxy for AWS CodeArtifact PyPI repositories, designed for use on internal servers (e.g., EC2 in private subnets) with no direct internet access. Includes automatic token refresh and SSL support.
