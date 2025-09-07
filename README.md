@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/naveen1583/private_pypi_codeartifact/images/CodeArtifact.png" alt="AWS CodeArtifact Logo" width="150"/>
+  <img src="https://raw.githubusercontent.com/naveen1583/private_pypi_codeartifact/main/images/CodeArtifact.png" alt="AWS CodeArtifact Logo" width="150"/>
 </p>
 
 # private-pypi-proxy (AWS CodeArtifact)
